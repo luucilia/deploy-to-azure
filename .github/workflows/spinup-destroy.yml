@@ -12,7 +12,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  AZURE_WEBAPP_NAME: luucilia-ttt-app
+  AZURE_WEBAPP_NAME: luucilia-webapp
 
 jobs:
   setup-up-azure-resources:
