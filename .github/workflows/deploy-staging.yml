@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: <luucilia>-azure-ttt
-  AZURE_WEBAPP_NAME: <luucilia>-ttt-app
+  DOCKER_IMAGE_NAME: luucilia-azure-ttt
+  AZURE_WEBAPP_NAME: luucilia--webapp
   ###############################################
 
 jobs:
